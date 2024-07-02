@@ -1,0 +1,71 @@
+/* Global styles */
+body {
+    font-family: "Gill Sans", sans-serif;
+    background-color: #F7CCAC;
+  }
+  
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    color: #212529; 
+  }
+
+  a {
+    text-decoration: none;
+    color: #3A3845; 
+  }
+  
+  
+  a:hover {
+    color: #3A3845; 
+  }
+  
+  /* Navbar styles */
+  .navbar {
+    background-color: #65647C; 
+  }
+  
+  .navbar-brand {
+    color: #F7CCAC; 
+  }
+  
+  .navbar-brand:hover {
+    color: #F7CCAC; 
+  }
+  
+  .nav-link {
+    color: #F7CCAC; 
+  }
+  
+  .nav-link:hover {  
+    color: #000000; 
+  }
+    
+  /* Footer styles */
+  .footer {
+    background-color: #826F66; 
+    color: #0e0e0e; 
+    line-height: 1.5;
+    vertical-align: middle;
+  }
+  
+  /* Products page styles */  
+  #kaffemaskiner {
+    background-color: #F7CCAC; 
+    padding: 20px;
+    border: 0px; 
+  }
+  
+  #kaffeparty {
+    background-color: #F7CCAC; 
+    padding: 10px;
+    border: 0px; 
+  }
+  
+  .col-md-4 h3 {
+    color: #212529; 
+  }
+  
+  .col-md-4 p {
+    color: #3A3845; 
+  }
